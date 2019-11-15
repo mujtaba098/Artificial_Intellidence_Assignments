@@ -1,4 +1,4 @@
-# Artificial_Intellidence_Assignments
+# Artificial_Intelligence_Assignments
 AI Assignments (Algorithms)
 
 done by:
